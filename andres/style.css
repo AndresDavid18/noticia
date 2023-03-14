@@ -1,0 +1,35 @@
+
+body{
+font-family: verdana;
+
+}
+
+
+.titulo-principal{
+color: rgb(8, 243, 23);
+
+font-size: 35px;
+}
+h2{
+color:blue;
+
+font-size: 25px;
+}
+
+.lista-perro{
+    font-size: 25px;
+color: chocolate;
+
+}
+p{
+color:rgb(114, 50, 4);
+font-size: 25px;
+
+}
+h2{
+    font-size: 25px;
+}
+.coment{
+
+    font-size: 25px;
+}
